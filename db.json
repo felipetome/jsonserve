@@ -17,6 +17,7 @@
       "ShiftEnd": 930,
       "ShiftTarget": 450
     },
+    
     {
       "SwapId": 35,
       "RequestorName": "Felipe tome",
@@ -33,7 +34,25 @@
       "ShiftStart": 570,
       "ShiftEnd": 930,
       "ShiftTarget": 450
+    },
+    {
+      "SwapId": 37,
+      "RequestorName": "Felipe tome",
+      "RequestorId": 64,
+      "StandinName": "Felipe Silva",
+      "StandinId": 3,
+      "SwapDate": "2023-05-18",
+      "Comment": "",
+      "Cancelled": false,
+      "AuthorisedByStandin": false,
+      "AuthorisedByRequestor": true,
+      "ShiftId": 9,
+      "ShiftName": "287",
+      "ShiftStart": 570,
+      "ShiftEnd": 930,
+      "ShiftTarget": 450
     }
+    
   ],
   "swapsAsStandin": []
 }
