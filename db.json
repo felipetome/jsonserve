@@ -51,6 +51,24 @@
             "ShiftEnd": 930,
             "ShiftTarget": 450
         }
+        ,
+        {
+            "SwapId": 38,
+            "RequestorName": "Felipe tome",
+            "RequestorId": 64,
+            "StandinName": "Gustavo Carmo",
+            "StandinId": 3,
+            "SwapDate": "2023-05-21",
+            "Comment": "",
+            "Cancelled": false,
+            "AuthorisedByStandin": false,
+            "AuthorisedByRequestor": true,
+            "ShiftId": 9,
+            "ShiftName": "28721",
+            "ShiftStart": 570,
+            "ShiftEnd": 930,
+            "ShiftTarget": 450
+        }
     ],
     "swapsAsStandin": []
 }
