@@ -1,58 +1,56 @@
 {
-  "swapsAsRequestor": [
-    {
-      "SwapId": 34,
-      "RequestorName": "F33C5C26 Donec pharetra",
-      "RequestorId": 62,
-      "StandinName": "Duis 88F297A7",
-      "StandinId": 3,
-      "SwapDate": "2023-05-18",
-      "Comment": "",
-      "Cancelled": false,
-      "AuthorisedByStandin": false,
-      "AuthorisedByRequestor": true,
-      "ShiftId": 8,
-      "ShiftName": "8",
-      "ShiftStart": 570,
-      "ShiftEnd": 930,
-      "ShiftTarget": 450
-    },
-    
-    {
-      "SwapId": 35,
-      "RequestorName": "Felipe tome",
-      "RequestorId": 63,
-      "StandinName": "Gustavo Carmo",
-      "StandinId": 3,
-      "SwapDate": "2023-05-18",
-      "Comment": "",
-      "Cancelled": false,
-      "AuthorisedByStandin": true,
-      "AuthorisedByRequestor": true,
-      "ShiftId": 9,
-      "ShiftName": "Troca teste",
-      "ShiftStart": 570,
-      "ShiftEnd": 930,
-      "ShiftTarget": 450
-    },
-    {
-      "SwapId": 37,
-      "RequestorName": "Felipe tome",
-      "RequestorId": 64,
-      "StandinName": "Felipe Silva",
-      "StandinId": 3,
-      "SwapDate": "2023-05-18",
-      "Comment": "",
-      "Cancelled": false,
-      "AuthorisedByStandin": false,
-      "AuthorisedByRequestor": true,
-      "ShiftId": 9,
-      "ShiftName": "287",
-      "ShiftStart": 570,
-      "ShiftEnd": 930,
-      "ShiftTarget": 450
-    }
-    
-  ],
-  "swapsAsStandin": []
+    "swapsAsRequestor": [
+        {
+            "SwapId": 34,
+            "RequestorName": "F33C5C26 Donec pharetra",
+            "RequestorId": 62,
+            "StandinName": "Duis 88F297A7",
+            "StandinId": 3,
+            "SwapDate": "2023-05-18",
+            "Comment": "",
+            "Cancelled": false,
+            "AuthorisedByStandin": false,
+            "AuthorisedByRequestor": true,
+            "ShiftId": 8,
+            "ShiftName": "8",
+            "ShiftStart": 570,
+            "ShiftEnd": 930,
+            "ShiftTarget": 450
+        },
+        {
+            "SwapId": 35,
+            "RequestorName": "Felipe tome",
+            "RequestorId": 63,
+            "StandinName": "Gustavo Carmo",
+            "StandinId": 3,
+            "SwapDate": "2023-05-18",
+            "Comment": "",
+            "Cancelled": false,
+            "AuthorisedByStandin": true,
+            "AuthorisedByRequestor": true,
+            "ShiftId": 9,
+            "ShiftName": "Troca teste",
+            "ShiftStart": 570,
+            "ShiftEnd": 930,
+            "ShiftTarget": 450
+        },
+        {
+            "SwapId": 37,
+            "RequestorName": "Felipe tome",
+            "RequestorId": 64,
+            "StandinName": "Felipe Silva",
+            "StandinId": 3,
+            "SwapDate": "2023-05-18",
+            "Comment": "",
+            "Cancelled": false,
+            "AuthorisedByStandin": false,
+            "AuthorisedByRequestor": true,
+            "ShiftId": 9,
+            "ShiftName": "287",
+            "ShiftStart": 570,
+            "ShiftEnd": 930,
+            "ShiftTarget": 450
+        }
+    ],
+    "swapsAsStandin": []
 }
