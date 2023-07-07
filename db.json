@@ -8,7 +8,7 @@
             "StandinId": 3,
             "SwapDate": "2023-05-18",
             "Comment": "",
-            "Cancelled": false,
+            "Cancelled": true,
             "AuthorisedByStandin": false,
             "AuthorisedByRequestor": true,
             "ShiftId": 8,
