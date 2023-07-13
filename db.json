@@ -74,27 +74,32 @@
         {
             "id": 34,
             "name": "Donec pharetra",
-            "office": "Mobile FrontEnd"
+            "office": "Mobile FrontEnd",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
         },
         {
             "id": 35,
             "name": "Jhon Abros",
-            "office": "Mobile BackEnd"
+            "office": "Mobile BackEnd",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
         },
         {
             "id": 36,
             "name": "Anton Gosfield",
-            "office": "Q&A"
+            "office": "Q&A",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
         },
         {
             "id": 37,
             "name": "Andril Toos",
-            "office": "CT Project"
+            "office": "CT Project",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
         },
         {
             "id": 38,
             "name": "Mary Crios",
-            "office": "AB Test"
+            "office": "AB Test",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50"
         }
     ]
 }
