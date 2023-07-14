@@ -1,41 +1,196 @@
-{
-    "users": [
-        {
-            "id": 34,
-            "name": "Donec pharetra",
-            "office": "Mobile FrontEnd"
-
+[
+    {
+        "departmentIdField":66,
+        "departmentNameField":"Nursing Administration",
+        "firstnameField":"John",
+        "surnameField":"Connolly",
+        "employeeNumberField":"10002467",
+        "dateStartedField":"2014-09-15",
+        "dateTerminatedField":"",
+        "customSortValueField":"",
+        "userDefinedField":[
+            {
+                "valueField":"Dublin 16",
+                "kindField":0,
+                "idField":3807,
+                "nameField":"Address 4"
+            }
+        ],
+        "shiftField":"",
+        "notesField":"",
+        "checkedField":false,
+        "workRangeField":null,
+        "rosterIdField":0,
+        "clockingField":true,
+        "contractIdField":-1,
+        "empGenderIdField":0,
+        "deletedField":false,
+        "clockNoField":"",
+        "accBadgeField":"",
+        "payNoField":"10002467",
+        "phoneNoField":"",
+        "nextHistoryField":"",
+        "multidatesField":false,
+        "superIdField":0,
+        "masterEmpIdField":0,
+        "isMentorField":false,
+        "dateOfBirthField":"1967-09-14",
+        "employeePhotoField":{
+            "heightField":0,
+            "widthField":0,
+            "mediaTypeField":"",
+            "imageDataField":null
         },
-        {
-            "id": 35,
-            "name": "Jhon Abros",
-            "office": "Mobile BackEnd"
-
-        }
-        ,
-        {
-            "id": 36,
-            "name": "Anton Gosfield",
-            "office": "Q&A"
+        "idField":2308,
+        "nameField":"John Connolly"
+    },
 
 
-        }
 
-        ,
-        {
-            "id": 37,
-            "name": "Andril Toos",
-            "office": "CT Project"
 
+
+    {
+        "departmentIdField":66,
+        "departmentNameField":"Nursing Administration",
+        "firstnameField":"Nouredine",
+        "surnameField":"Connolly",
+        "employeeNumberField":"10002467",
+        "dateStartedField":"2014-09-15",
+        "dateTerminatedField":"",
+        "customSortValueField":"",
+        "userDefinedField":[
+            {
+                "valueField":"Dublin 16",
+                "kindField":0,
+                "idField":3807,
+                "nameField":"Address 4"
+            }
+        ],
+        "shiftField":"",
+        "notesField":"",
+        "checkedField":false,
+        "workRangeField":null,
+        "rosterIdField":0,
+        "clockingField":true,
+        "contractIdField":-1,
+        "empGenderIdField":0,
+        "deletedField":false,
+        "clockNoField":"",
+        "accBadgeField":"",
+        "payNoField":"10002467",
+        "phoneNoField":"",
+        "nextHistoryField":"",
+        "multidatesField":false,
+        "superIdField":0,
+        "masterEmpIdField":0,
+        "isMentorField":false,
+        "dateOfBirthField":"1967-09-14",
+        "employeePhotoField":{
+            "heightField":0,
+            "widthField":0,
+            "mediaTypeField":"",
+            "imageDataField":null
         },
-        {
-            "id": 38,
-            "name": "Mary Crios",
-            "office": "AB Test"
+        "idField":2308,
+        "nameField":"Josh Oils"
+    }
 
-        }
-        
-        
-    ]
-    
-}
+
+
+
+
+    {
+        "departmentIdField":66,
+        "departmentNameField":"Nursing Administration",
+        "firstnameField":"Nouredine",
+        "surnameField":"Connolly",
+        "employeeNumberField":"10002467",
+        "dateStartedField":"2014-09-15",
+        "dateTerminatedField":"",
+        "customSortValueField":"",
+        "userDefinedField":[
+            {
+                "valueField":"Dublin 16",
+                "kindField":0,
+                "idField":3807,
+                "nameField":"Address 4"
+            }
+        ],
+        "shiftField":"",
+        "notesField":"",
+        "checkedField":false,
+        "workRangeField":null,
+        "rosterIdField":0,
+        "clockingField":true,
+        "contractIdField":-1,
+        "empGenderIdField":0,
+        "deletedField":false,
+        "clockNoField":"",
+        "accBadgeField":"",
+        "payNoField":"10002467",
+        "phoneNoField":"",
+        "nextHistoryField":"",
+        "multidatesField":false,
+        "superIdField":0,
+        "masterEmpIdField":0,
+        "isMentorField":false,
+        "dateOfBirthField":"1967-09-14",
+        "employeePhotoField":{
+            "heightField":0,
+            "widthField":0,
+            "mediaTypeField":"",
+            "imageDataField":null
+        },
+        "idField":2308,
+        "nameField":"Ruana Mendes"
+    },
+
+    {
+        "departmentIdField":66,
+        "departmentNameField":"Nursing Administration",
+        "firstnameField":"Nouredine",
+        "surnameField":"Connolly",
+        "employeeNumberField":"10002467",
+        "dateStartedField":"2014-09-15",
+        "dateTerminatedField":"",
+        "customSortValueField":"",
+        "userDefinedField":[
+            {
+                "valueField":"Dublin 16",
+                "kindField":0,
+                "idField":3807,
+                "nameField":"Address 4"
+            }
+        ],
+        "shiftField":"",
+        "notesField":"",
+        "checkedField":false,
+        "workRangeField":null,
+        "rosterIdField":0,
+        "clockingField":true,
+        "contractIdField":-1,
+        "empGenderIdField":0,
+        "deletedField":false,
+        "clockNoField":"",
+        "accBadgeField":"",
+        "payNoField":"10002467",
+        "phoneNoField":"",
+        "nextHistoryField":"",
+        "multidatesField":false,
+        "superIdField":0,
+        "masterEmpIdField":0,
+        "isMentorField":false,
+        "dateOfBirthField":"1967-09-14",
+        "employeePhotoField":{
+            "heightField":0,
+            "widthField":0,
+            "mediaTypeField":"",
+            "imageDataField":null
+        },
+        "idField":2308,
+        "nameField":"Devi Colin"
+    }
+
+
+
+]
